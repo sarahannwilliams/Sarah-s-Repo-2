@@ -1,0 +1,10 @@
+# local package
+# -e .
+
+# external requirements
+coverage
+flake8
+
+
+# backwards compatibility
+pathlib2
